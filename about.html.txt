@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>About</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About Camping4All</a>
+<a href="locations.html">Recommended Camping Locations</a>
+<a href="tips.html">Tips & Safety</a>
+<a href="gallery.html">Photo Gallery</a>
+<a href="faq.html">FAQ</a>
+<a href="contact.html">Feedback/Contact/Social Media</a>
+</nav>
+
+<div class="hero" style="background-image:url('https://images.unsplash.com/photo-1500534314209-a25ddb2bd429');">
+<h1>About Camping4All</h1>
+</div>
+
+<div class="container">
+<div class="card">
+<p>This site helps people find the best camping locations, compare options, and prepare for outdoor trips.</p>
+</div>
+
+<p>Learn more at <a href="https://www.nps.gov" target="_blank">National Park Service</a></p>
+</div>
+
+<footer>Camping4All</footer>
+</body>
+</html>
