@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Gallery</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About Camping4All</a>
+<a href="locations.html">Recommended Camping Locations</a>
+<a href="tips.html">Tips & Safety</a>
+<a href="gallery.html">Photo Gallery</a>
+<a href="faq.html">FAQ</a>
+<a href="contact.html">Feedback/Contact/Social Media</a>
+</nav>
+
+<div class="hero" style="background-image:url('https://images.unsplash.com/photo-1499696010181-7e9b4c6e7d7a');">
+<h1>Photo Gallery</h1>
+</div>
+
+<div class="container">
+
+<div class="gallery">
+
+<img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470">
+<img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e">
+<img src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e">
+<img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee">
+<img src="https://images.unsplash.com/photo-1478131143081-80f7f84ca84d">
+<img src="https://images.unsplash.com/photo-1502082553048-f009c37129b9">
+
+</div>
+
+</div>
+
+<footer>Camping4All</footer>
+
+</body>
+</html>
