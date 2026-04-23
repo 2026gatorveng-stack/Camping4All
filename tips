@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Tips</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>...same navbar...</nav>
+
+<div class="hero" style="background-image:url('https://images.unsplash.com/photo-1500530855697-b586d89ba3ee');">
+<h1>Tips & Safety</h1>
+</div>
+
+<div class="container grid">
+
+<div class="card"><h3>Stay Hydrated</h3></div>
+<div class="card"><h3>Check Weather</h3></div>
+<div class="card"><h3>Bring Supplies</h3></div>
+
+</div>
+
+<footer>Camping4All</footer>
+</body>
+</html>
